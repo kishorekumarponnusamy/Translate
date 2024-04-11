@@ -1,2 +1,1 @@
-pip install -U spacy
-pip install newspaper3k
+
